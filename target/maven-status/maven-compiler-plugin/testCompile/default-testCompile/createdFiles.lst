@@ -1,0 +1,6 @@
+com\restful\booker\authinfo\CreateAuthToken.class
+com\restful\booker\bookinginfo\CreateBookingDataDrivenTest.class
+com\restful\booker\bookinginfo\BookingCRUDTest.class
+com\restful\booker\testbase\TestBaseAuth.class
+com\restful\booker\bookinginfo\BookingTagsTest.class
+com\restful\booker\testbase\TestBaseBooking.class

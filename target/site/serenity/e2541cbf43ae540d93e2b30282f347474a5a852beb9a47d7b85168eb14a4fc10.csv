@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking CRUD test","Creating a new booking using Post method","SUCCESS","2023-06-05T14:04:10.262+01:00[Europe/London]","0.0","0.83"
+"Booking CRUD test","Verify if the booking was added to the application","SUCCESS","2023-06-05T14:04:11.117+01:00[Europe/London]","0.0","0.52"
+"Booking CRUD test","Update the booking information and verify the updated information","SUCCESS","2023-06-05T14:04:11.641+01:00[Europe/London]","0.0","1.15"
+"Booking CRUD test","Update the booking information and verify the updated information after Patch","SUCCESS","2023-06-05T14:04:12.795+01:00[Europe/London]","0.0","0.55"
+"Booking CRUD test","Delete the booking and verify if the booking is deleted","SUCCESS","2023-06-05T14:04:13.351+01:00[Europe/London]","0.0","1.0"
+"Booking CRUD test","Getting all booking info","SUCCESS","2023-06-05T14:04:14.349+01:00[Europe/London]","0.0","0.57"

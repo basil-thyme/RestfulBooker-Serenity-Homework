@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.restful.booker.bookinginfo.CreateBookingDataDrivenTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in com.restful.booker.bookinginfo.CreateBookingDataDrivenTest
+createMultipleBookings(com.restful.booker.bookinginfo.CreateBookingDataDrivenTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.restful.booker.bookinginfo.CreateBookingDataDrivenTest.createMultipleBookings(CreateBookingDataDrivenTest.java:31)
+
